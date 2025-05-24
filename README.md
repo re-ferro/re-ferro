@@ -1,4 +1,4 @@
-## Hi there 👋
+🧪 Quality Assurance | Test Automation
 
 <!--
 **re-ferro/re-ferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
